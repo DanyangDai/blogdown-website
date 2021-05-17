@@ -13,9 +13,6 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Publications
-    url: '#featured'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 70
