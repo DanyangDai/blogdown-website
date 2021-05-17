@@ -4,15 +4,15 @@ abstract: Danyang has benefited so much from R markdown for all school works and
 address:
   city: Melbourne 
   country: Australia
-  postcode: "3000"
+  postcode: ""
   region: VIC
-  street: Nous Level 19, 567 Collins Street 
+  street: Online
 all_day: false
 authors: []
-date: "2021-05-19T17:30:00Z"
-date_end: "2021-05-19T19:30:00Z"
-event: Create and publish your personal website with Blogdown
-event_url: https://www.meetup.com/en-AU/rladies-melbourne/events/277974887/
+date: "2020-08-24T17:30:00Z"
+date_end: "2020-08-24T19:00:00Z"
+event: R Markdown - A Better Way of Communicating with Data
+event_url: https://www.meetup.com/en-AU/rladies-melbourne/events/272501382/
 featured: false
 image:
   caption: 
@@ -25,18 +25,18 @@ links:
 - icon: book-open
   icon_pack: fas
   name: Slides
-  url: https://blogdownworkshop.netlify.app
+  url: https://rmarkdown-rladiesmelbourne.netlify.app/
   
 location: Melbourne
 projects:
 - internal-project
-publishDate: "2021-05-10T00:00:00Z"
-slides: Building website with Blogdown
-summary: Building website with Blogdown 
-tags: [Blogdown]
-title: Building website with Blogdown
-url_code: "https://github.com/DanyangDai/blogdown-workshop-RLadies"
+publishDate: "2020-08-24T00:00:00Z"
+slides: R Markdown - A Better Way of Communicating with Data
+summary: R Markdown - A Better Way of Communicating with Data
+tags: [R Markdown]
+title: R Markdown - A Better Way of Communicating with Data
+url_code: "https://github.com/DanyangDai/rladies-melbourne-rmarkdown"
 url_pdf: ""
-url_slides: "https://blogdownworkshop.netlify.app"
-url_video: 
+url_slides: "https://rmarkdown-rladiesmelbourne.netlify.app/#1"
+url_video: "https://www.youtube.com/watch?v=0yeaK3ci8s8&feature=youtu.be"
 ---
