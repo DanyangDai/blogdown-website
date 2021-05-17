@@ -30,13 +30,13 @@ links:
 location: Melbourne
 projects:
 - internal-project
-publishDate: "2021-05-15T00:00:00Z"
+publishDate: "2021-05-10T00:00:00Z"
 slides: Building website with Blogdown
 summary: Building website with Blogdown 
 tags: [Blogdown]
 title: Building website with Blogdown
 url_code: "https://github.com/DanyangDai/blogdown-workshop-RLadies"
 url_pdf: ""
-url_slides: "https://blogdownworkshop.netlify.app/#1"
+url_slides: "https://blogdownworkshop.netlify.app"
 url_video: 
 ---
