@@ -1,5 +1,5 @@
 ---
-abstract: This workshop is designed for beginners, and does not require prior experience in web languages such as HTML, CSS or JavaScript - only a bit of R Markdown is needed! I will guide you through creating the website from beginning to end, and at the completion of the workshop we will show you how to publish your website online with Netlify, so that anyone can visit your new personal site.
+abstract: Danyang has benefited so much from R markdown for all school works and research, would like to share some experience with R-Ladies!
 
 address:
   city: Melbourne 
