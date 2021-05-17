@@ -1,10 +1,10 @@
 ---
-abstract: This workshop is designed for beginners, and does not require prior experience in web languages such as HTML, CSS or JavaScript - only a bit of R Markdown is needed! She will guide you through creating the website from beginning to end, and at the completion of the workshop we will show you how to publish your website online with Netlify, so that anyone can visit your new personal site.
+abstract: This workshop is designed for beginners, and does not require prior experience in web languages such as HTML, CSS or JavaScript - only a bit of R Markdown is needed! I will guide you through creating the website from beginning to end, and at the completion of the workshop we will show you how to publish your website online with Netlify, so that anyone can visit your new personal site.
 
 address:
   city: Melbourne 
   country: Australia
-  postcode: "8003"
+  postcode: "3000"
   region: VIC
   street: Nous Level 19, 567 Collins Street 
 all_day: false
@@ -26,10 +26,10 @@ links:
   icon_pack: fas
   name: Slides
   url: https://blogdownworkshop.netlify.app
-
+  
 location: Melbourne
 projects:
-- internal-project
+- external-project
 publishDate: "2021-05-18T00:00:00Z"
 slides: Building website with Blogdown
 summary: Building website with Blogdown 
@@ -38,5 +38,5 @@ title: Building website with Blogdown
 url_code: "https://github.com/DanyangDai/blogdown-workshop-RLadies"
 url_pdf: ""
 url_slides: "https://blogdownworkshop.netlify.app/#1"
-url_video: ""
+url_video: 
 ---
