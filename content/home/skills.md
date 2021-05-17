@@ -20,14 +20,14 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: strong skills in statistical, mathematical modelling and forecasting
+- description: Strong skills in statistical, mathematical modelling and forecasting
   icon: infinity
   icon_pack: fas
   name: Statistics
 - description: Story telling with data visualisation and statistical modelling
   icon: chart-line
   icon_pack: fas
-  name: Data visualization 
+  name: Data visualisation 
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"
