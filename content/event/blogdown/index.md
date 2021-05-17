@@ -54,7 +54,7 @@ url_video: "https://blogdownworkshop.netlify.app"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: Building website with Blogdown
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -62,5 +62,5 @@ slides: Building website with Blogdown
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- []
 ---
