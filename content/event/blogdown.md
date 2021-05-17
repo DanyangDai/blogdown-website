@@ -10,7 +10,7 @@ address:
 all_day: false
 authors: []
 date: "2021-05-19T17:30:00Z"
-date_end: "2021-05-19T17:30:00Z"
+date_end: "2021-05-19T19:30:00Z"
 event: Create and publish your personal website with Blogdown
 event_url: https://www.meetup.com/en-AU/rladies-melbourne/events/277974887/
 featured: false
@@ -29,8 +29,8 @@ links:
   
 location: Melbourne
 projects:
-- external-project
-publishDate: "2021-05-18T00:00:00Z"
+- internal-project
+publishDate: "2021-05-15T00:00:00Z"
 slides: Building website with Blogdown
 summary: Building website with Blogdown 
 tags: [Blogdown]
