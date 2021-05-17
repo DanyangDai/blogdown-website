@@ -10,7 +10,7 @@ address:
 all_day: false
 authors: []
 date: "2021-05-19T17:30:00Z"
-date_end: "2021-05-19T19:30:00Z"
+date_end: "2021-05-19T17:30:00Z"
 event: Create and publish your personal website with Blogdown
 event_url: https://www.meetup.com/en-AU/rladies-melbourne/events/277974887/
 featured: false
