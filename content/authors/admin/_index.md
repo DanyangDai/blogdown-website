@@ -16,9 +16,9 @@ highlight_name: false
 interests:
 - Econometrics
 - Data Visualisation 
-- R programing
+- R programming
 organizations:
-- name: RLadies Melbourne 
+- name: R-Ladies Melbourne 
   url: https://www.meetup.com/en-AU/rladies-melbourne
 role: Organisation committee member 
 social:
@@ -40,6 +40,6 @@ social:
 superuser: true
 title: Danyang Dai
 ---
-Danyang Dai (Daidai) is a graduate student from the University of Melbourne. She graduated with Masters degree in 2020 and Bachelor degree in 2018 from Monash University. She is working with R-Ladies Melbourne to encourage minority gender R enthusiasts to achieve their programming potentials. She cofound the Equity Research Organisation at the University of Melbourne and build the club website using Blogdown. She is passionate about Time Series Analysis and Applied Econometrics. She is actively seeking for research assistance and business analysts jobs in Melbourne area.
+Danyang Dai (Daidai) is a graduate student from the University of Melbourne. She graduated with Masters degree in 2020 and Bachelor degree in 2018 from Monash University. She is working with R-Ladies Melbourne to encourage minority gender R enthusiasts to achieve their programming potential. She co-founded the Equity Research Organisation at the University of Melbourne and build the club website using Blogdown. She is passionate about Time Series Analysis and Applied Econometrics. She is actively seeking business analytics employment opportunities in the Melbourne area.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/danyangd.pdf" "newtab" >}}resumé{{< /staticref >}}.
