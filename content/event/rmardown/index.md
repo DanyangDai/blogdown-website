@@ -12,7 +12,7 @@ authors: []
 date: "2020-08-24T17:30:00Z"
 date_end: "2020-08-24T19:00:00Z"
 event: R Markdown - A Better Way of Communicating with Data
-event_url: https://www.meetup.com/en-AU/rladies-melbourne/events/277974887/
+event_url: https://www.meetup.com/en-AU/rladies-melbourne/events/272501382/
 featured: false
 image:
   caption: 
