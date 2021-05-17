@@ -1,37 +1,37 @@
 ---
-title: Building website with Blogdown
+title: R Markdown - A Better Way of Communicating with Data
 
 event: R-Ladies Melbourne Meetup 
-event_url: https://www.meetup.com/en-AU/rladies-melbourne/events/277974887/
+event_url: https://www.meetup.com/en-AU/rladies-melbourne/events/272501382/
 
-location: Nous Group
-address:
-  street: 567 Collins Street 
+location: Wowchemy HQ
+address: 
+  street: online
   city: Melbourne 
   region: VIC
-  postcode: '3000'
+  postcode: ''
   country: Australia
 
-summary: This workshop is designed for beginners, and does not require prior experience in web languages such as HTML, CSS or JavaScript - only a bit of R Markdown is needed! I will guide you through creating the website from beginning to end, and at the completion of the workshop we will show you how to publish your website online with Netlify, so that anyone can visit your new personal site. 
+summary: I have benefited so much from R markdown for all school works and research, would like to share some experience with R-Ladies!
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-05-19T17:30:00Z"
-date_end: "2021-05-19T17:30:00Z"
+date: "2020-08-24T17:30:00Z"
+date_end: "2020-08-24T19:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-05-01T00:00:00Z"
+publishDate: "2020-08-01T00:00:00Z"
 
 authors: []
-tags: [Blogdown]
+tags: [R Markdown]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
-  caption: 
+  caption: ''
   focal_point: Right
 
 links:
@@ -42,19 +42,18 @@ links:
 - icon: book-open
   icon_pack: fas
   name: Slides
-  url: https://blogdownworkshop.netlify.app
-
-url_code: "https://github.com/DanyangDai/blogdown-workshop-RLadies"
+  url: https://rmarkdown-rladiesmelbourne.netlify.app
+url_code: "https://github.com/DanyangDai/rladies-melbourne-rmarkdown"
 url_pdf: ""
-url_slides: ""
-url_video: "https://blogdownworkshop.netlify.app"
+url_slides: "https://rmarkdown-rladiesmelbourne.netlify.app"
+url_video: "https://www.youtube.com/watch?v=0yeaK3ci8s8&feature=youtu.be"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: Building website with Blogdown
+slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
