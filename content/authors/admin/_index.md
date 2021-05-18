@@ -1,5 +1,5 @@
 ---
-bio: Econometrics graduated; PhD hopeful
+bio: Econometrics graduated
 education:
   courses:
   - course: Master of Applied Econometrics

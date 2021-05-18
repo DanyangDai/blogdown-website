@@ -3,7 +3,11 @@
         {
             "columnIndex": 2,
             "ascending": true
+        },
+        {
+            "columnIndex": 4,
+            "ascending": false
         }
     ],
-    "path": "~/Documents/GitHub/blogdown-website/content"
+    "path": "~/Documents/GitHub/blogdown-website/content/home"
 }
