@@ -4,7 +4,7 @@ title: R Markdown - A Better Way of Communicating with Data
 event: R-Ladies Melbourne Meetup 
 event_url: https://www.meetup.com/en-AU/rladies-melbourne/events/272501382/
 
-location: Wowchemy HQ
+location: Online
 address: 
   street: online
   city: Melbourne 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Danyang Dai</title>
+    <link>/event/</link>
+      <atom:link href="/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2021 17:30:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/event/</link>
+    </image>
+    
+    <item>
+      <title>Building website with Blogdown</title>
+      <link>/talk/building-website-with-blogdown/</link>
+      <pubDate>Wed, 19 May 2021 17:30:00 +0000</pubDate>
+      <guid>/talk/building-website-with-blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown - A Better Way of Communicating with Data</title>
+      <link>/talk/r-markdown-a-better-way-of-communicating-with-data/</link>
+      <pubDate>Mon, 24 Aug 2020 17:30:00 +0000</pubDate>
+      <guid>/talk/r-markdown-a-better-way-of-communicating-with-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
